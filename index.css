@@ -59,6 +59,19 @@ body {
             margin: 5px 0;
             font-size: 14px;
         }
+        .items {
+            margin-bottom: 15px;
+            background-color: teal;
+        }
+        .items h3 {
+            margin: 0;
+            font-size: 18px;
+            color: #999;
+        }
+        .items p {
+            margin: 5px 0;
+            font-size: 14px;
+        }
         .skills ul {
             list-style: none;
             padding: 0;
